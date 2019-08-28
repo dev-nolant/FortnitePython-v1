@@ -12,3 +12,7 @@ A python Fortnite bot using BenBot API and fortnitepy
 2. In party chat type either !skin (skin name)
 3. !play (emote name)
 4. !clearemote - stops emoting
+# Repositories/API
+1. [BENBOT](http://benbotfn.tk:8080/api/docs)
+2. [fortnitepy-docs](https://github.com/Terbau/fortnitepy)
+
